@@ -42,6 +42,10 @@ code {
   font-size: 1.2em;
 }
 
+button {
+  cursor: pointer;
+}
+
 ul {
   padding-left: 20px;
 }
